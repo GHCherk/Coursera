@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d397e020-e928-497d-b317-679dd4fdd225" name="Default Changelist" comment="" />
+    <list default="true" id="d397e020-e928-497d-b317-679dd4fdd225" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week_1/01_11_clock_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_12_purchase_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_13_fol_prev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_14_0_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_15_next_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_16_100_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_17_MKAD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_18_clock_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_19_time_delta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_20_motor_rally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_1/01_22_symmetric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/01_11_clock.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +28,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YZHqS95eG5DPipbsGCeLtcuzjb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -153,6 +174,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1583243695452">
       <screen x="0" y="0" width="1280" height="680" />
@@ -174,10 +198,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583243720113" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1583234924190">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="906" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1583657899572">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583234924190" />
+    <state x="906" y="338" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1583657899572" />
     <state x="303" y="1" key="search.everywhere.popup" timestamp="1583143457963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
